@@ -1,0 +1,98 @@
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\MovieBooking.dll.config
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\MovieBooking.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\MovieBooking.pdb
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\AspNet.ScriptManager.jQuery.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\BeMoviesBooking.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.AspNet.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.Core.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\EntityFramework.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\Microsoft.Web.Infrastructure.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\System.Web.Providers.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\System.Net.Http.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\BeMoviesBooking.pdb
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\EntityFramework.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.Core.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\DotNetOpenAuth.AspNet.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\bin\System.Net.Http.xml
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\obj\Debug\MovieBooking.csprojResolveAssemblyReference.cache
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\obj\Debug\MovieBooking.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\MovieBooking\obj\Debug\MovieBooking.pdb
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\MovieBooking.dll.config
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\MovieBooking.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\MovieBooking.pdb
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\AspNet.ScriptManager.jQuery.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\BeMoviesBooking.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.AspNet.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.Core.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\EntityFramework.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\Microsoft.Web.Infrastructure.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\System.Web.Providers.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\System.Net.Http.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\BeMoviesBooking.pdb
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\EntityFramework.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.Core.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\DotNetOpenAuth.AspNet.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\bin\System.Net.Http.xml
+D:\ImagineUpline\MovieBooking\MovieBooking\obj\Debug\MovieBooking.csprojResolveAssemblyReference.cache
+D:\ImagineUpline\MovieBooking\MovieBooking\obj\Debug\MovieBooking.dll
+D:\ImagineUpline\MovieBooking\MovieBooking\obj\Debug\MovieBooking.pdb
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\obj\Debug\MovieBooking.csproj.CoreCompileInputs.cache
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\MovieBooking.dll.config
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\MovieBooking.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\MovieBooking.pdb
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\AspNet.ScriptManager.jQuery.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\BeMoviesBooking.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.AspNet.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.Core.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\EntityFramework.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\Microsoft.Web.Infrastructure.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\System.Web.Providers.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\System.Net.Http.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\BeMoviesBooking.pdb
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\EntityFramework.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.Core.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\DotNetOpenAuth.AspNet.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\bin\System.Net.Http.xml
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\obj\Debug\MovieBooking.csproj.CopyComplete
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\obj\Debug\MovieBooking.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\obj\Debug\MovieBooking.pdb
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\obj\Debug\MovieBooking.csprojAssemblyReference.cache

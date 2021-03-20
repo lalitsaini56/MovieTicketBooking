@@ -1,0 +1,28 @@
+ ------------------------- 12-Dec-2020 02:35:45 AM -------------------------
+Error            : -1 mail sending Error
+Details          : 
+Comments         : 
+Function         : SendMailCommon
+Path             : /Account/AdminRegister.aspx
+IP Address       : fe80::4012:fd7:7616:36ca%18
+Browser Type     : Chrome87
+Browser Name     : Chrome
+Browser Version  : 87.0
+ ------------------------- End -------------------------
+
+ ------------------------- 12-Dec-2020 02:35:46 AM -------------------------
+Error            : The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+Details          :    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at MovieBooking.App_Code.MailSending.SendMailCommon(String MailTos, String MailCCs, String tSubject, String tBody, String FromMailid, String MailBcc) in D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\MovieBooking\App_Code\MailSending.cs:line 152
+Comments         : 
+Function         : SendMailCommon
+Path             : /Account/AdminRegister.aspx
+IP Address       : fe80::4012:fd7:7616:36ca%18
+Browser Type     : Chrome87
+Browser Name     : Chrome
+Browser Version  : 87.0
+ ------------------------- End -------------------------
+

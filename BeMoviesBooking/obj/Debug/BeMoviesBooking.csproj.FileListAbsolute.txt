@@ -1,0 +1,14 @@
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\BeMoviesBooking\bin\Debug\BeMoviesBooking.dll.config
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\BeMoviesBooking\bin\Debug\BeMoviesBooking.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\BeMoviesBooking\bin\Debug\BeMoviesBooking.pdb
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\BeMoviesBooking\obj\Debug\BeMoviesBooking.dll
+D:\Lalit Saini\Testing\API\Movie_Booking\MovieBooking\BeMoviesBooking\obj\Debug\BeMoviesBooking.pdb
+D:\ImagineUpline\MovieBooking\BeMoviesBooking\bin\Debug\BeMoviesBooking.dll
+D:\ImagineUpline\MovieBooking\BeMoviesBooking\bin\Debug\BeMoviesBooking.pdb
+D:\ImagineUpline\MovieBooking\BeMoviesBooking\obj\Debug\BeMoviesBooking.dll
+D:\ImagineUpline\MovieBooking\BeMoviesBooking\obj\Debug\BeMoviesBooking.pdb
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\BeMoviesBooking\bin\Debug\BeMoviesBooking.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\BeMoviesBooking\bin\Debug\BeMoviesBooking.pdb
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\BeMoviesBooking\obj\Debug\BeMoviesBooking.csproj.CoreCompileInputs.cache
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\BeMoviesBooking\obj\Debug\BeMoviesBooking.dll
+D:\ImagineUpline\Asp.Net\Movie_Ticket_Booking\NewMovieTicketBooking\MovieTicketBooking\BeMoviesBooking\obj\Debug\BeMoviesBooking.pdb
